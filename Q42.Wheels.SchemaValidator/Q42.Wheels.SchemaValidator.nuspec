@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>Q42.Wheels.SchemaValidator</title>
+    <authors>Jaap Taal</authors>
+    <owners>jaap</owners>
+    <licenseUrl>https://github.com/q42jaap/Q42.Wheels.SchemaValidator/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/q42jaap/Q42.Wheels.SchemaValidator</projectUrl>
+    <iconUrl>http://a0.twimg.com/profile_images/2142700938/q42-logo-big-square.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A "wheel" that allows you to validate an xml document against a schema.</description>
+    <copyright>Copyright 2013</copyright>
+    <tags>Xml Xsd</tags>
+  </metadata>
+</package>
