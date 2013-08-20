@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchemaValidatorExample", "SchemaValidatorExample\SchemaValidatorExample.csproj", "{6BC4A822-C8C1-4553-B758-031BF483221B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q42.Wheels.SchemaValidator", "Q42.Wheels.SchemaValidator\Q42.Wheels.SchemaValidator.csproj", "{970824DF-F839-434C-AFB4-E3E61BFBF4B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BC4A822-C8C1-4553-B758-031BF483221B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BC4A822-C8C1-4553-B758-031BF483221B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BC4A822-C8C1-4553-B758-031BF483221B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BC4A822-C8C1-4553-B758-031BF483221B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{970824DF-F839-434C-AFB4-E3E61BFBF4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970824DF-F839-434C-AFB4-E3E61BFBF4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970824DF-F839-434C-AFB4-E3E61BFBF4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970824DF-F839-434C-AFB4-E3E61BFBF4B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
